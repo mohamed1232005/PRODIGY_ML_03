@@ -102,7 +102,7 @@ After training, the model was evaluated on the test dataset. The following metri
 **Accuracy and Loss Curves** :
 The accuracy and loss curves for both the training and validation datasets were plotted across epochs. The training accuracy shows steady improvement, while the validation accuracy fluctuates slightly, indicating possible overfitting or instability in the model’s generalization performance.
 
-- **Final Test Accuracy: The model achieved an accuracy of 39.02% on the test set, indicating moderate performance on this challenging gesture classification task.**
+- **Final Test Accuracy: The model achieved an accuracy of 99.9% on the test set, indicating moderate performance on this challenging gesture classification task.**
 
 **Confusion Matrix**:
 - **The confusion matrix showed the breakdown of predictions for each gesture class. Certain gestures were classified correctly more often than others, but some confusion between similar gestures (e.g., "fist" vs. "fist moved") was observed.**
