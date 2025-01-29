@@ -1,5 +1,3 @@
-# PRODIGY_ML_03
-
 ## Hand Gesture Recognition Using Convolutional Neural Networks (CNNs)
 Hand gesture recognition is an essential technology in human-computer interaction (HCI), providing an intuitive method for controlling devices without the need for physical input devices like keyboards or mice. This project implements a deep learning model using convolutional neural networks (CNNs) to classify different hand gestures from images. The model is designed to identify and classify gestures using a dataset of hand gestures, enabling gesture-based control systems that can be integrated into various real-world applications.
 
